@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm alireza alizadeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
+<img align='right' alt='Alireza' width= '400' src='https://i.imgur.com/vT4Oclk.gif'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezaaliza&label=Profile%20views&color=0e75b6&style=flat" alt="alirezaaliza" /> </p>
 
 - 🤝 I’m looking for help with **Iphone phone**
